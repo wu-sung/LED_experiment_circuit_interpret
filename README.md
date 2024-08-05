@@ -17,4 +17,7 @@
 
 ### 아두이노로부터 신호를 받고 측정을 하게되면 신호선에서 gate에 일정한 전류를 흘려보내고 gate에서부터 동작을 하게 되면서 각각 2k, 1k에서 R,G,B값을 측정하고 측정된 값을 아래의 트랜지스터에 보내어 추출할 수 있다. <br>
 
-### 맨 아래의 주황 타원은 '레귤레이터'로써 15V를 인가하였을 때 5V로 조절하여 전압인가를 하는 역할이다.
+### 맨 아래의 주황 타원은 '레귤레이터'로써 15V를 인가하였을 때 5V로 조절하여 전압인가를 하는 역할이다. <br>
+
+### 위의 내용을 학습하기까지 참고한 사이트 : https://m.blog.naver.com/durian0328/222201280017, https://pdf1.alldatasheet.com/datasheet-pdf/view/9122/NSC/LMC6484IN.html, https://circuit-designer.tistory.com/entry/%ED%9A%8C%EB%A1%9C-%EA%B8%B0%EC%B4%88-%EB%B9%84%EB%B0%98%EC%A0%84-%EC%A6%9D%ED%8F%AD%EA%B8%B0%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90, 
+https://blog.naver.com/bruno_annie/220767601583?photoView=2
