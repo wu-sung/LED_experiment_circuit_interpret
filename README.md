@@ -1,6 +1,10 @@
 ## LED실험 R,G,B값을 받기 위해 만든 회로해석
 
 ----
+![KakaoTalk_20240805_103348827_01](https://github.com/user-attachments/assets/896b11b2-b7b8-458f-a059-dafd14c22ee1)
+![KakaoTalk_20240805_103348827](https://github.com/user-attachments/assets/64318bc3-e90c-490f-ae3a-8b2cdb3572c0)
+![KakaoTalk_20240805_103441206](https://github.com/user-attachments/assets/8b6a9472-504e-411c-b0ea-3cb95ecd25f1)
+
 
 ### R,G,B 선에 연결 하고 깜빡깜빡 하는 주기의 신호값이 읽혀지는데 반전 증폭기 회로의 Gain은 -(R2/R1)이다. <br>
 ### 이를 통해 얼마만큼 증폭이 되는지 알 수 있고 LMC6484 증폭기의 1번에서 나온 출력이 5번 입력 전압으로 들어가게 되고 나오게 된 출력이 제너 다이오드로 전다. <br>
